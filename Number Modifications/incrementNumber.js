@@ -1,5 +1,5 @@
 // Before increment modification:
-let number = 6;
+const number = 6;
 console.log("Before increment:", number);
 
 // After increment modification:

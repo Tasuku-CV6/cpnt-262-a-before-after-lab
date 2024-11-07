@@ -1,5 +1,5 @@
 // Before Fixed Decimal modification
-let number = 123;
+const number = 123;
 console.log("Before:", number);
 
 // After Fixed Decimal modification

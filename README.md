@@ -9,16 +9,16 @@ Link to Github Profile: https://github.com/Tasuku-CV6
 
 ### String Methods:
 
-- Get Length
-- Access the First Character
-- Concatenate
-- Find Index
-- Replace
+- Get Length = stringLength
+- Access the First Character = charAt(index)
+- Concatenate = concat
+- Find Index = indexOf
+- Replace = replace
 
 ### Number Methods:
 
-- Increment/Decrement
-- Convert to String
-- Fixed Decimals
-- Exponential Notation
-- Check if Finite
+- Increment/Decrement = ++ (Increment) / -- (Decrement)
+- Convert to String = toString()
+- Fixed Decimals = toFixed()
+- Exponential Notation = expo()
+- Check if Finite = Number.isFinite()

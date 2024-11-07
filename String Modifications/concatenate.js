@@ -2,6 +2,7 @@
 const string1 = "Hello Bob";
 const string2 = "Welcome to my home";
 
+// TODO: change the plus to a comma and remove the pipe symbol
 console.log("Before; " + string1 + " | " + string2);
 
 // After Concatenate Modification

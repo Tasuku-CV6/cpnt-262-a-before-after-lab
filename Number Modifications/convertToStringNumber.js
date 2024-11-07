@@ -1,8 +1,8 @@
 // Before Converting to String
-let num = 23;
+const num = 23;
 console.log("Before:", num);
 
 // After Converting to String
-let str = num.toString();
+const str = num.toString();
 console.log("After:", str);
 // output: Displays the number as a string
