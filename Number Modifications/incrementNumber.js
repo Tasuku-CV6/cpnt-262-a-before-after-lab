@@ -1,8 +1,8 @@
 // Before increment modification:
-const number = 6;
+let number = 6;
 console.log("Before increment:", number);
 
 // After increment modification:
 number++;
 console.log("After increment:", number);
-// output: "After incremment: 7"
+// output: Displays a "7" because it adds an increment of one

@@ -7,4 +7,4 @@ function expo(x, f) {
   return Number.parseFloat(x).toExponential(f);
 }
 console.log("After: ", expo(123456, 2));
-// output: Should become a Exponential Notation which would be "1.23e+5"
+// output: Should display a Exponential Notation of "After: 1.23e+5"
