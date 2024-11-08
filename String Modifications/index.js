@@ -7,4 +7,4 @@ const searchTerm = "winter";
 const indexOfFirst = paragraph.indexOf(searchTerm);
 
 console.log(`After: The index of the word "${searchTerm}" is ${indexOfFirst}`);
-// output: "The index of the word "winter" is 13"
+// output: Displays the index of the word "winter" as 13
